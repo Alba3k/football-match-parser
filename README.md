@@ -11,13 +11,13 @@
 ## system manual :soccer:
 ### step by step
 
-1. get web pages in different versions:
+***1. get web pages in different versions:***
 - all existing matches
 - matches for today
 - matches for tomorrow
 
-2. obtaining the necessary information using scraping, saving with pandas, 
-creating recommendations based on a computer algorithm, for:
+***2. obtaining the necessary information using scraping, saving with pandas, 
+creating recommendations based on a computer algorithm, for:***
 - all matches
 - matches for today
 - matches for tomorrow
