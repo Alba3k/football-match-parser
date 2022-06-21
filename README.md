@@ -26,8 +26,10 @@ creating recommendations based on a computer algorithm, for:***
 
 <kbd><img src="img/step4-5-6.jpg" /></kbd>
 
+***3. get output files in csv format, if certain criteria are met, recommendations:***
 
+<kbd><img src="img/result.jpg" /></kbd>
 
+<kbd><img src="img/rec_result.jpg" /></kbd>
 
 ***
-
