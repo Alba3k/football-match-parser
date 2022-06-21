@@ -1,0 +1,55 @@
+date_match,home_team,away_team,rating,chance_home,home_kef,chance_draw,draw_kef,chance_away,away_kef,tips,probability value
+06-26 15:00,Degerfors,AIK,3,20,5.25,30,4.0,50,1.57,U3.5,78.5
+06-26 15:00,Hammarby,BK Hacken,2,36,1.85,29,3.75,34,3.75,U3.5,66.6
+06-26 15:00,Mjällby AIF,IFK Norrkoping,4,45,3.5,28,3.3,27,2.1,1X,157.5
+06-26 17:30,GIF Sundsvall,Djurgarden,4,34,7.5,29,4.75,37,1.4,U2.5,51.8
+06-27 19:00,Elfsborg,Varbergs BoIS FC,1,58,1.4,24,4.33,18,7.0,O1.5,81.2
+06-27 19:00,Kalmar FF,IFK Varnamo,4,50,1.85,28,3.5,22,4.0,O2.5,92.5
+06-27 19:00,Malmo FF,Helsingborg,3,69,1.25,20,5.5,10,11.0,U3.5,86.25
+06-27 19:00,Sirius,IFK Goteborg,4,46,2.7,30,3.4,24,2.4,1X,124.2
+06-26 13:00,Skövde AIK,Västerås SK FK,5,50,2.55,28,3.5,22,2.6,1,127.5
+06-26 13:00,Utsiktens BK,IK Brage,3,40,2.15,30,3.5,30,2.9,O2.5,86.0
+06-26 15:00,Dalkurd FF,AFC Eskilstuna,2,38,2.75,29,3.5,32,2.38,U3.5,104.5
+06-27 19:00,Brommapojkarna,Osters IF,5,81,2.2,13,3.5,6,2.87,1,178.2
+06-27 19:00,Landskrona,Orebro SK,2,38,2.8,29,3.4,32,2.37,O1.5,106.4
+06-25 16:00,Haugesund,Viking,2,38,3.4,29,3.75,32,2.0,U3.5,129.2
+06-25 18:00,Rosenborg,Kristiansund BK,4,69,1.4,20,5.0,10,7.0,BTSY,96.6
+06-26 18:00,Bodo/Glimt,Aalesund,4,45,1.48,28,4.75,27,5.5,BTSY,66.6
+06-26 18:00,Ham,Kam,3,38,2.8,29,3.6,32,2.4,O2.5,106.4
+06-26 18:00,Molde,FK Jerv,5,69,1.2,24,7.5,7,13.0,BTSY,82.8
+06-26 18:00,Sandefjord,Tromso,4,45,3.0,28,3.4,27,2.38,1X,135.0
+06-26 18:00,Stromsgodset,Lillestrom,3,36,2.8,29,3.6,34,2.4,O2.5,100.8
+06-26 20:00,Valerenga,Odd BK,3,40,1.7,30,4.0,30,4.75,O2.5,68.0
+06-22 17:00,FC Ilves,HIFK,5,73,1.45,20,4.2,7,8.0,O2.5,105.85
+06-22 17:00,KuPS Kuopio,AC Oulu,3,58,1.36,24,4.5,18,8.0,U2.5,78.88
+06-22 17:00,SJK,FC Haka,5,47,2.38,30,3.2,22,3.0,O2.5,111.86
+06-22 17:00,FC Inter,Lahti,5,47,1.53,30,4.2,22,5.25,BTSY,71.91
+06-22 17:00,VPS,Honka,3,34,3.25,29,3.3,37,2.15,O2.5,79.55
+06-22 18:00,IFK Mariehamn,HJK Helsinki,4,14,6.5,29,4.2,57,1.48,U2.5,84.36
+06-25 02:30,Internacional RS,Coritiba,5,62,1.62,24,3.8,14,5.75,BTSY,100.44
+06-25 21:30,Athletico PR,Bragantino,4,50,2.4,28,3.1,22,3.2,1,120.0
+06-26 00:00,Corinthians,Santos,4,58,2.05,24,3.0,18,4.2,1,118.9
+06-26 00:00,Flamengo,America MG,4,52,1.5,29,4.33,19,6.0,U2.5,78.0
+06-26 02:00,Atletico Mineiro,Fortaleza,4,58,1.53,24,4.2,18,6.5,BTSY,88.74
+06-26 21:00,Avai,Palmeiras,3,34,5.75,26,4.0,40,1.62,BTSY,64.8
+06-26 21:00,Botafogo,Fluminense RJ,3,40,2.55,30,3.1,30,2.88,BTSY,102.0
+06-26 23:00,Ceara,Atletico GO,3,40,2.05,30,3.25,30,4.2,O1.5,82.0
+06-26 23:00,Goias,Cuiaba,4,46,2.05,30,3.2,24,4.0,BTSY,94.3
+06-26 23:00,Sao Paulo,Juventude,5,62,1.57,24,3.75,14,7.5,BTSY,97.34
+06-22 00:00,Chapecoense,CRB AL,3,40,2.15,30,3.0,30,3.5,BTSY,86.0
+06-24 02:30,CSA AL,Gremio RS,3,40,3.2,30,3.0,30,2.3,1X,128.0
+06-24 02:30,Ponte Preta,Sampaio Correa MA,2,46,2.05,30,3.25,24,3.5,1X,94.3
+06-25 00:00,Londrina,Guarani,5,50,2.4,28,3.0,22,3.0,1,120.0
+06-25 02:30,Vasco da Gama,Operario,3,62,1.7,24,3.4,14,5.0,BTSY,105.4
+06-25 16:00,Criciuma,Vila Nova,3,52,2.05,29,3.1,19,3.75,1,106.6
+06-25 21:00,Bahia,Novorizontino SP,3,69,1.62,20,3.6,10,5.5,BTSY,111.78
+06-26 00:00,Sport Recife,Brusque SC,2,50,1.91,28,3.25,22,4.0,U2.5,95.5
+06-26 16:00,Tombense MG,Nautico PE,4,52,2.15,29,3.2,19,3.3,BTSY,111.8
+06-22 12:00,Jeonbuk Motors,Suwon Bluewings,4,52,1.88,29,3.25,19,4.33,BTSY,97.76
+06-22 12:30,FC Seoul,Ulsan Hyundai,3,34,3.5,26,3.25,40,2.0,2,80.0
+06-22 12:30,Incheon Utd,Gangwon FC,5,50,2.5,28,3.1,22,2.8,1,125.0
+06-25 11:00,Jeonbuk Motors,Daegu FC,3,52,1.95,29,3.4,19,3.5,BTSY,101.4
+06-25 12:00,Suwon,Suwon Bluewings,2,38,2.5,29,3.0,32,2.8,BTSY,95.0
+06-25 13:00,Seoul,Incheon United,3,46,2.0,30,3.2,24,3.6,BTSY,92.0
+06-26 11:00,Ulsan Hyundai,Seongnam,3,73,1.45,20,4.0,7,6.5,BTSY,105.85
+06-26 12:30,Gangwon,Jeju United,2,34,3.2,29,3.0,37,2.25,U3.5,83.25
