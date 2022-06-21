@@ -32,4 +32,6 @@ creating recommendations based on a computer algorithm, for:***
 
 <kbd><img src="img/rec_result.jpg" /></kbd>
 
+***4. good game and profit :moneybag:***
+
 ***
