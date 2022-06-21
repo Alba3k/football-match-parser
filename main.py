@@ -13,10 +13,9 @@ link_list = ['https://www.virtualbet24.com/en/predictions/',
 'https://www.virtualbet24.com/en/predictions/today/',
 'https://www.virtualbet24.com/en/predictions/tomorrow/']
 
-html_tips = ['virtualbet_predictions.html', 
-'virtualbet_predictions_today.html', 
-'virtualbet_predictions_tomorrow.html']
-
+html_tips = ['page/virtualbet_predictions.html', 
+'page/virtualbet_predictions_today.html', 
+'page/virtualbet_predictions_tomorrow.html']
 
 #```````page download````````````````````````````````````````````````
 def page_download(link):
@@ -25,7 +24,7 @@ def page_download(link):
 	page_name = page_name.strip('/')
 	page_name = page_name.replace('/','_')
 	req = requests.get(r_file)
-	file = open(f'virtualbet_{page_name}.html', 'w', encoding='UTF8')
+	file = open('page/virtualbet_' + page_name + '.html', 'w', encoding='UTF8')
 	new_record = req.text
 	file.write(str(new_record))
 	file.close()
