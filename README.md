@@ -2,9 +2,9 @@
 ### parsing matches from the virtualbet 24 website 
 ### search and based on the collected information, recommendations for games
 
-![GitHub](https://img.shields.io/badge/Alba3k/football-match-parser-brightgreen?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/Alba3k/football-match-parser?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Alba3k/football-match-parser?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Alba3k/football-match-parser?style=for-the-badge)
 
 <kbd><img src="img/pexels_396300.jpg" /></kbd>
 
