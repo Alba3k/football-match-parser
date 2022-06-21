@@ -11,10 +11,9 @@
 ## system manual :soccer:
 ### step by step
 1.get web pages in different versions:
-
-[+]all existing matches
-matches for today
-matches for tomorrow
+	> all existing matches
+	> matches for today
+	> matches for tomorrow
 
 
 
