@@ -1,2 +1,1 @@
-# football-match-parser
-football recommendation system based on the value of odds
+# match parsing and recommendation system based on the value of odds
