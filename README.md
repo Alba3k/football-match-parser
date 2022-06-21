@@ -10,18 +10,20 @@
 
 ## system manual :soccer:
 ### step by step
-1.get web pages in different versions:
-> all existing matches
-> matches for today
-> matches for tomorrow
+
+1. get web pages in different versions:
+- all existing matches
+- matches for today
+- matches for tomorrow
+
+2. obtaining the necessary information using scraping, saving with pandas, 
+creating recommendations based on a computer algorithm, for:
+- all matches
+- matches for today
+- matches for tomorrow
 
 
 
-
-Версия simple. Написана без классов, функций, реализован следующий функционал:
-- количество побед, процент побед от общего количества.
-- количество поражений, процент от общего количества. 
-- общее количество сыгранных игр, %.
 
 ***
 
