@@ -16,11 +16,15 @@
 - matches for today
 - matches for tomorrow
 
+<kbd><img src="img/step1-2-3.jpg" /></kbd>
+
 ***2. obtaining the necessary information using scraping, saving with pandas, 
 creating recommendations based on a computer algorithm, for:***
 - all matches
 - matches for today
 - matches for tomorrow
+
+<kbd><img src="img/step4-5-6.jpg" /></kbd>
 
 
 
