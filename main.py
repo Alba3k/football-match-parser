@@ -6,6 +6,7 @@ import random
 import csv
 import pandas as pd
 from bs4 import BeautifulSoup
+from datetime import datetime
 
 init(autoreset=True)
 
@@ -86,8 +87,11 @@ def html_csv(html_file):
 			value_bet = []
 
 #`````````getting information about the date of the match````````````
-			date_match_full = match.find('span', class_='date')
-			match_detail['date_match'] = date_match_full.get_text()[0:11]
+			date_match_full = match.find('span', class_='date')	
+			date_match = date_match_full.get_text()[0:11]
+			date_match = datetime.strptime(date_match, '%m-%d %H:%M')	
+			date_match = date_match.strftime('%d-%m %H:%M')       
+			match_detail['date_match'] = date_match
 
 #```````````home and away team names`````````````````````````````````
 			team = date_match_full.get_text()[12:]
